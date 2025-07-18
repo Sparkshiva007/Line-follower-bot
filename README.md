@@ -47,13 +47,6 @@ The robot uses an array of reflectance sensors to detect the path (black line). 
 
 ---
 
-## 💡 Credits
-
-**Project by:** Shiva Projects  
-If you recreate, remix, or improve this project, give credit to the creator.
-
----
-
 ## ⚠️ License
 
 This project is licensed under the MIT License - you are free to use, modify, and distribute it with attribution.
