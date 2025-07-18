@@ -7,11 +7,12 @@ This project demonstrates a **line-following robot** designed with all component
 ## 🔧 Features
 
 - Smooth and responsive line tracking
-- Lightweight and compact design
+- Lightweight and highly compact design
 - Entire circuitry assembled on a single perfboard
 - Low-cost and beginner-friendly design
 - Built with commonly available electronic parts
-
+- uses PID algorithm to detect and perform perfect turns
+  
 ---
 
 ## 🧠 How It Works
