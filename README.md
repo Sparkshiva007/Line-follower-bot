@@ -28,7 +28,7 @@ The robot uses an array of reflectance sensors to detect the path (black line). 
 | Arduino Nano         | Core controller (brain of the robot)   |
 | QTR Sensor Array     | To detect line position                |
 | N20 Gear Motors      | For movement and turning               |
-| TB6612FNG Motor Driver   | To drive and control the motors        |
+| TB6612FNG Motor Driver   | To drive and control the motors    |
 | 7.4V Battery Pack    | Power supply for motors and logic      |
 | Voltage Regulator    | To provide stable power to controller  |
 | Perfboard            | Base for assembling all components     |
